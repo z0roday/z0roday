@@ -44,7 +44,7 @@ Experienced in artificial intelligence, web development, network engineering, an
 ## 📫 Get in Touch
 
 - GitHub: [github.com/z0roday](https://github.com/z0roday)
-- LinkedIn: [linkedin.com/in/z0roday](https://linkedin.com/in/z0roday)
+- Telegram: [t.me/z0roday](https://t.me/z0roday)
 - Email: z0roday@gmail.com
 
 ---
