@@ -55,8 +55,3 @@ Experienced in artificial intelligence, web development, network engineering, an
 ---
 [![](https://visitcount.itsvg.in/api?id=z0roday&icon=2&color=0)](https://z0roday.ir)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/z0roday) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
