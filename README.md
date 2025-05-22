@@ -1,19 +1,19 @@
 # Hey there! 👋 I'm z0roday
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Multifaceted+Tech+Professional;AI+%26+Cybersecurity+Enthusiast;Full-Stack+Developer;Network+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Developer+%26+Penetration+Tester;Coding+for+Fun+%26+Profit;Web+Developer;Security+Researcher" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-I'm a passionate tech professional who thrives at the intersection of artificial intelligence, cybersecurity, and full-stack development. When I'm not diving deep into code or exploring the latest AI models, you'll find me securing networks or building scalable web applications.
+I'm a developer who codes for the fun of it! I love building things, breaking things (ethically of course), and figuring out how everything works under the hood. Whether it's crafting web applications, diving into penetration testing, or just experimenting with different programming languages, I'm always up for a good coding challenge.
 
 ### What I'm up to:
-- 🔬 Experimenting with cutting-edge AI/ML technologies
-- 🛡️ Strengthening cybersecurity defenses
-- 🌐 Building robust web applications
-- 📡 Designing resilient network infrastructures
-- 🤖 Exploring the future of automation
+- 💻 Writing code because it's fun (seriously!)
+- 🛡️ Penetration testing and security research
+- 🌐 Building web applications with various frameworks
+- 🔧 Tinkering with different programming languages
+- 📡 Network engineering and infrastructure stuff
 
 ---
 
@@ -28,20 +28,32 @@ I'm a passionate tech professional who thrives at the intersection of artificial
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>Web Development</b></summary>
+<summary><b>Web Frameworks</b></summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Security & Penetration Testing</b></summary>
+<br>
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 </details>
 
@@ -59,15 +71,13 @@ I'm a passionate tech professional who thrives at the intersection of artificial
 </details>
 
 <details>
-<summary><b>Data & AI</b></summary>
+<summary><b>Data & Databases</b></summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
