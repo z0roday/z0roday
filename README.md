@@ -130,7 +130,4 @@ I'm always excited to connect with fellow developers, security researchers, and 
   <i>💡 "The best way to predict the future is to invent it." - Alan Kay</i>
   
   <br><br>
-  
-  <b>Thanks for stopping by! 🚀</b>
-  
 </div>
