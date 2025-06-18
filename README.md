@@ -126,8 +126,8 @@ I'm always excited to connect with fellow developers, security researchers, and 
   <img src="https://komarev.com/ghpvc/?username=z0roday&color=blueviolet&style=for-the-badge" alt="Profile views" />
   
   <br><br>
-  
+
   <i>💡 "The best way to predict the future is to invent it." - Alan Kay</i>
+
   
-  <br><br>
 </div>
